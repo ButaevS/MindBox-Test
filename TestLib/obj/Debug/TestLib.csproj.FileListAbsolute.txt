@@ -1,5 +1,0 @@
-c:\users\bupty03\documents\visual studio 2015\Projects\TestLib\TestLib\bin\Debug\TestLib.dll
-c:\users\bupty03\documents\visual studio 2015\Projects\TestLib\TestLib\bin\Debug\TestLib.pdb
-c:\users\bupty03\documents\visual studio 2015\Projects\TestLib\TestLib\obj\Debug\TestLib.dll
-c:\users\bupty03\documents\visual studio 2015\Projects\TestLib\TestLib\obj\Debug\TestLib.pdb
-c:\users\bupty03\documents\visual studio 2015\Projects\TestLib\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
