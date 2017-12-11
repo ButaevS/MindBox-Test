@@ -1,0 +1,9 @@
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\UnitTestTriangle.dll
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\UnitTestTriangle.pdb
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\TestLib.dll
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\TestLib.pdb
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\obj\Debug\UnitTestTriangle.csprojResolveAssemblyReference.cache
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\obj\Debug\UnitTestTriangle.dll
+c:\Users\BuPTy03\documents\visual studio 2015\Projects\TestLib\UnitTestTriangle\obj\Debug\UnitTestTriangle.pdb
